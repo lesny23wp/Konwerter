@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Konwerter.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="files1Path" Type="System.String" Scope="User">
+      <Value Profile="(Default)">D:\KotlinBank\BankBGZ</Value>
+    </Setting>
+    <Setting Name="files2Path" Type="System.String" Scope="User">
+      <Value Profile="(Default)">D:\KotlinBank\Bank</Value>
+    </Setting>
+    <Setting Name="files3Path" Type="System.String" Scope="User">
+      <Value Profile="(Default)">D:\KotlinBank\BankBGZ\Poprawione</Value>
+    </Setting>
+    <Setting Name="files4Path" Type="System.String" Scope="User">
+      <Value Profile="(Default)">D:\KotlinBank\Bank</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

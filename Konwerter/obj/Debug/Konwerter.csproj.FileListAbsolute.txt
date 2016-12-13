@@ -1,0 +1,36 @@
+D:\Projekty\Konwerter\Konwerter\bin\Debug\Konwerter.exe.config
+D:\Projekty\Konwerter\Konwerter\bin\Debug\Konwerter.exe
+D:\Projekty\Konwerter\Konwerter\bin\Debug\Konwerter.pdb
+D:\Projekty\Konwerter\Konwerter\obj\Debug\Konwerter.csprojResolveAssemblyReference.cache
+D:\Projekty\Konwerter\Konwerter\obj\Debug\Konwerter.Form1.resources
+D:\Projekty\Konwerter\Konwerter\obj\Debug\Konwerter.Properties.Resources.resources
+D:\Projekty\Konwerter\Konwerter\obj\Debug\Konwerter.csproj.GenerateResource.Cache
+D:\Projekty\Konwerter\Konwerter\obj\Debug\Konwerter.exe
+D:\Projekty\Konwerter\Konwerter\obj\Debug\Konwerter.pdb
+D:\zzz\Projekty\Konwerter\Konwerter\bin\Debug\Konwerter.exe.config
+D:\zzz\Projekty\Konwerter\Konwerter\obj\Debug\Konwerter.exe
+D:\zzz\Projekty\Konwerter\Konwerter\obj\Debug\Konwerter.pdb
+D:\zzz\Projekty\Konwerter\Konwerter\bin\Debug\Konwerter.exe
+D:\zzz\Projekty\Konwerter\Konwerter\bin\Debug\Konwerter.pdb
+D:\zzz\Projekty\Konwerter\Konwerter\obj\Debug\Konwerter.csprojResolveAssemblyReference.cache
+D:\zzz\Projekty\Konwerter\Konwerter\obj\Debug\Konwerter.Form1.resources
+D:\zzz\Projekty\Konwerter\Konwerter\obj\Debug\Konwerter.Properties.Resources.resources
+D:\zzz\Projekty\Konwerter\Konwerter\obj\Debug\Konwerter.csproj.GenerateResource.Cache
+C:\Users\Bart\Desktop\Konwerter\Konwerter\bin\Debug\Konwerter.exe.config
+C:\Users\Bart\Desktop\Konwerter\Konwerter\obj\Debug\Konwerter.exe
+C:\Users\Bart\Desktop\Konwerter\Konwerter\obj\Debug\Konwerter.pdb
+C:\Users\Bart\Desktop\Konwerter\Konwerter\bin\Debug\Konwerter.exe
+C:\Users\Bart\Desktop\Konwerter\Konwerter\bin\Debug\Konwerter.pdb
+C:\Users\Bart\Desktop\Konwerter\Konwerter\obj\Debug\Konwerter.csprojResolveAssemblyReference.cache
+C:\Users\Bart\Desktop\Konwerter\Konwerter\obj\Debug\Konwerter.Form1.resources
+C:\Users\Bart\Desktop\Konwerter\Konwerter\obj\Debug\Konwerter.Properties.Resources.resources
+C:\Users\Bart\Desktop\Konwerter\Konwerter\obj\Debug\Konwerter.csproj.GenerateResource.Cache
+E:\erp pulpit\Konwerter\Konwerter\bin\Debug\Konwerter.exe.config
+E:\erp pulpit\Konwerter\Konwerter\obj\Debug\Konwerter.exe
+E:\erp pulpit\Konwerter\Konwerter\obj\Debug\Konwerter.pdb
+E:\erp pulpit\Konwerter\Konwerter\bin\Debug\Konwerter.exe
+E:\erp pulpit\Konwerter\Konwerter\bin\Debug\Konwerter.pdb
+E:\erp pulpit\Konwerter\Konwerter\obj\Debug\Konwerter.csprojResolveAssemblyReference.cache
+E:\erp pulpit\Konwerter\Konwerter\obj\Debug\Konwerter.Form1.resources
+E:\erp pulpit\Konwerter\Konwerter\obj\Debug\Konwerter.Properties.Resources.resources
+E:\erp pulpit\Konwerter\Konwerter\obj\Debug\Konwerter.csproj.GenerateResource.Cache

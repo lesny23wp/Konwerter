@@ -1,0 +1,15 @@
+E:\erp pulpit\Konwerter\Konwerter\bin\Release\Konwerter.exe.config
+E:\erp pulpit\Konwerter\Konwerter\bin\Release\Konwerter.exe
+E:\erp pulpit\Konwerter\Konwerter\bin\Release\Konwerter.pdb
+E:\erp pulpit\Konwerter\Konwerter\obj\Release\Konwerter.csprojResolveAssemblyReference.cache
+E:\erp pulpit\Konwerter\Konwerter\obj\Release\Konwerter.Form1.resources
+E:\erp pulpit\Konwerter\Konwerter\obj\Release\Konwerter.Properties.Resources.resources
+E:\erp pulpit\Konwerter\Konwerter\obj\Release\Konwerter.csproj.GenerateResource.Cache
+E:\erp pulpit\Konwerter\Konwerter\obj\Release\Konwerter.exe
+E:\erp pulpit\Konwerter\Konwerter\obj\Release\Konwerter.pdb
+C:\Users\Bart\Desktop\interviw\przykładowe programy\Konwerter\Konwerter\bin\Release\Konwerter.exe.config
+C:\Users\Bart\Desktop\interviw\przykładowe programy\Konwerter\Konwerter\obj\Release\Konwerter.exe
+C:\Users\Bart\Desktop\interviw\przykładowe programy\Konwerter\Konwerter\obj\Release\Konwerter.pdb
+C:\Users\Bart\Desktop\DPS Software\przykładowe programy\Konwerter\Konwerter\bin\Release\Konwerter.exe.config
+C:\Users\Bart\Desktop\DPS Software\przykładowe programy\Konwerter\Konwerter\obj\Release\Konwerter.exe
+C:\Users\Bart\Desktop\DPS Software\przykładowe programy\Konwerter\Konwerter\obj\Release\Konwerter.pdb
